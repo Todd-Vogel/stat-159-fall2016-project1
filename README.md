@@ -2,7 +2,7 @@
 
 First, create the following file structure using the command line
 
-stat159-fall2016-project1/
+`stat159-fall2016-project1/
     paper/
         sections/
             00-abstract.md
@@ -16,7 +16,7 @@ stat159-fall2016-project1/
         github-logo.png
         markdown-logo.png
         pandoc-logo.png
-        stat159-logo.png
+        stat159-logo.png`
         
 Use `vim` to add content to .md files
 
