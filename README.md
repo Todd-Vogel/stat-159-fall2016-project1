@@ -4,7 +4,8 @@
 
 1. Create the following file structure using the command line
 
-`stat159-fall2016-project1/
+`
+stat159-fall2016-project1/
 
     paper/  
     
