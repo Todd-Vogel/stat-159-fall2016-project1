@@ -1,8 +1,10 @@
 # stat-159-fall2016-project1
 
-First, create the following file structure using the command line
+##Steps to Complete Project
 
-`stat159-fall2016-project1/  
+1. Create the following file structure using the command line
+
+`stat159-fall2016-project1/
 
     paper/  
     
@@ -33,20 +35,20 @@ First, create the following file structure using the command line
         stat159-logo.png`
         
 
-Use `vim` to add content to .md files
+2. Use `vim` to add content to .md files
 
-Download logo images to stat159-fall2016-project1/images/ using `curl`
+3. Download logo images to stat159-fall2016-project1/images/ using `curl`
 
-Creat a .gitignore file in stat159-fall2016-project1/
+4. Create a .gitignore file in stat159-fall2016-project1/
 
-Create a README.md file in stat159-fall2016-project1/
+5. Create a README.md file in stat159-fall2016-project1/
 
-Create a Makefile in stat159-fall2016-project1/ using `vim Makefile`
+6. Create a Makefile in stat159-fall2016-project1/ using `vim Makefile`
 
-Within the Makefile combine the paper sections using the `cat` command to make paper.md in stat159-fall2016-project1/paper/sections
-Also, use `pandoc` in the Makefile to make paper.html in stat159-fall2016-project1/paper/sections/
+ * Within the Makefile combine the paper sections using the `cat` command to make paper.md in stat159-fall2016-project1/paper/sections
+ * Also, use `pandoc` in the Makefile to make paper.html in stat159-fall2016-project1/paper/sections/
 
-Create a github repository
-Add stat159-fall2016-project1/ to git using `git add`
-Commit stat159-fall2016-project1/ using `git commit`
-Push stat159-fall2016-project1/ to github using `git push origin master`
+7. Create a github repository
+ * Add stat159-fall2016-project1/ to git using `git add`
+ * Commit stat159-fall2016-project1/ using `git commit`
+ * Push stat159-fall2016-project1/ to github using `git push origin master`
