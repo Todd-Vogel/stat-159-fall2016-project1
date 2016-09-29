@@ -2,20 +2,20 @@
 
 First, create the following file structure using the command line
 
-`stat159-fall2016-project1/
-    paper/
-        sections/
-            00-abstract.md
-            01-introduction.md
-            02-discussion.md
-            03-conclusions.md
-        paper.md
-        paper.html
-    images/
-        git-logo.png
-        github-logo.png
-        markdown-logo.png
-        pandoc-logo.png
+`stat159-fall2016-project1/  
+    paper/  
+        sections/  
+            00-abstract.md  
+            01-introduction.md  
+            02-discussion.md  
+            03-conclusions.md  
+        paper.md  
+        paper.html  
+    images/  
+        git-logo.png  
+        github-logo.png  
+        markdown-logo.png  
+        pandoc-logo.png  
         stat159-logo.png`
         
 Use `vim` to add content to .md files
